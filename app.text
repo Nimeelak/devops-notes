@@ -1,0 +1,14 @@
+GIT COMMANDS :
+touch-creating file
+cat -view the content
+git init- intilization git from local repo to centeral repo.
+{instilaztion the local area to dependent software to do the for there operations to send the data from local system to central operatory.}
+git add -add files
+git add . - add all files
+git commit -m"message" - commit files
+git push origin master - push to central repo
+git status -check the files status
+git branch - to show all branches& show present in which branch we are working 
+git checkout - to shift branch
+git pull origin master -pull the data from master(before push we have to run)
+git fetch origin master(branch)- to know any updates or changes in the central reposetory
